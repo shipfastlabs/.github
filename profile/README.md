@@ -1,12 +1,14 @@
-## Hi there 👋
+# ship fast labs
 
-<!--
+everything here got built because i needed it once and nothing good
+existed. mostly PHP and Laravel right now, but open to whatever ships
+fastest.
 
-**Here are some ideas to get you started:**
+MIT all the way down. steal freely.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### start here
+
+- **[parsel](https://github.com/shipfastlabs/parsel)** — fast document parser for PHP
+- **[toolkit](https://github.com/shipfastlabs/toolkit)** — reusable AI tools for the Laravel AI SDK
+- **[bashbox](https://github.com/shipfastlabs/bashbox)** — sandboxed bash interpreter for agents
+- **[modern starter kits](https://shipfastlabs.com)** — Laravel + Vue / React / Livewire, opinionated tooling
