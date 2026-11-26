@@ -8,6 +8,7 @@ MIT all the way down. steal freely.
 
 ### start here
 
+- **[pun](https://github.com/shipfastlabs/pun)** — The ultrafast unified PHP toolchain.
 - **[parsel](https://github.com/shipfastlabs/parsel)** — fast document parser for PHP
 - **[toolkit](https://github.com/shipfastlabs/toolkit)** — reusable AI tools for the Laravel AI SDK
 - **[bashbox](https://github.com/shipfastlabs/bashbox)** — sandboxed bash interpreter for agents
